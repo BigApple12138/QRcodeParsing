@@ -47,6 +47,3 @@ scan_directory_for_images(directory_path, output_file_path)
 
 如果您想为这个项目贡献代码或想法，请随时提交pull requests或开issue。
 
-## 许可证
-
-[MIT License](LICENSE)
