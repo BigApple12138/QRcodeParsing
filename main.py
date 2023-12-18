@@ -93,7 +93,7 @@ def process_image(file_path):
                 qr_roi = image[y1:y2, x1:x2]
 
                 # # 保存裁剪的二维码图片
-                # qr_image_path = os.path.join(r"D:\menglq\项目资料\烟草NG二维码解析\qr",
+                # qr_image_path = os.path.join(r"/TEST",
                 #                              f"qr_{os.path.basename(file_path)}")
                 # cv2.imwrite(qr_image_path, qr_roi)
 
